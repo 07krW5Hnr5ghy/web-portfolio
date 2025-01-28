@@ -1,7 +1,7 @@
-import Header from './components/Header'
-import Hero from './components/Hero'
-import About from './components/About'
-import Skills from './components/Skills'
+import Header from './Pages/Header'
+import Hero from './Pages/Hero'
+import About from './Pages/About'
+import Skills from './Pages/Skills'
 import './App.css'
 
 function App() {
