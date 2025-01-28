@@ -2,6 +2,7 @@ import Header from './Pages/Header'
 import Hero from './Pages/Hero'
 import About from './Pages/About'
 import Skills from './Pages/Skills'
+import Contact from './Pages/Contact'
 import './App.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Hero/>
       <About/>
       <Skills/>
+      <Contact/>
     </div>
   )
 }
