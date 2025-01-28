@@ -1,10 +1,10 @@
-import Header from './Pages/Header'
-import Hero from './Pages/Hero'
-import About from './Pages/About'
-import Skills from './Pages/Skills'
-import Projects from './Pages/Projects'
-import Contact from './Pages/Contact'
-import Footer from './Pages/Footer'
+import Header from './pages/Header'
+import Hero from './pages/Hero'
+import About from './pages/About'
+import Skills from './pages/Skills'
+import Projects from './pages/Projects'
+import Contact from './pages/Contact'
+import Footer from './pages/Footer'
 import './App.css'
 
 function App() {
