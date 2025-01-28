@@ -1,4 +1,5 @@
 import Header from './components/Header'
+import Hero from './components/Hero'
 import './App.css'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <div className='min-h-screen flex flex-col'>
       <Header/>
+      <Hero/>
     </div>
   )
 }
